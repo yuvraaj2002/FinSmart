@@ -1,0 +1,8 @@
+qdrant-client
+langchain
+langchain-community
+langchain-ollama
+pypdf
+sentence_transformers
+pandas
+-e .
