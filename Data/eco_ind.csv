@@ -1,0 +1,2 @@
+,symbol,name,price,changesPercentage,change,dayLow,dayHigh,yearHigh,yearLow,marketCap,priceAvg50,priceAvg200,exchange,volume,avgVolume,open,previousClose,eps,pe,earningsAnnouncement,sharesOutstanding,timestamp
+0,MSFT,Microsoft Corporation,416.32,0.1154,0.48,413.27,417.1099,468.35,324.39,3094523212800,417.7662,417.43036,NASDAQ,14059961,19964053,416.135,415.84,11.81,35.25,2024-10-22 00:00:00+00:00,7433040000,1970-01-01 00:00:01.728676801
